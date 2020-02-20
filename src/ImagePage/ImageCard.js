@@ -7,7 +7,7 @@ const ImageCard = (props) =>{
 
 return(
     <div className="image-card" key={props.id}>
-    <img src={props.url} alt=""/>
+    <img className="infoImg" src={props.url} alt=""/>
     <div className="img-dsc">
         <span>{props.title}</span>
         <span>{props.date}</span>
