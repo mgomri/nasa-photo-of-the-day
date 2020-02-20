@@ -3,12 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "^3.4.0",
     "reactstrap": "^8.4.1"
+=======
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.4.0"
+>>>>>>> 5b20a7bd79260abe55541db9339a28ab5ad49ecd
   },
   "scripts": {
     "start": "react-scripts start",
