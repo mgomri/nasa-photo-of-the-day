@@ -1,0 +1,20 @@
+.header-container{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: solid 1px red;
+    width: 80%;
+    margin: auto;
+}
+
+.navigation{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: center;
+    width:30%;
+}
+
+
+
